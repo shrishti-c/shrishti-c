@@ -44,4 +44,5 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shrishti-c&show_icons=true&theme=gotham" alt="shrishti" />
 
 
+![Most Used Languages](https://raw.githubusercontent.com/shrishti-c/github-stats-transparent/output/generated/languages.svg)
 
