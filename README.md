@@ -33,24 +33,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17% 
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
-```
 
 
 
