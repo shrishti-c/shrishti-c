@@ -42,6 +42,16 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            █████████░░░░░░░░░░░░░░░░   36.17% 
+Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
+```
+
 
 
 
