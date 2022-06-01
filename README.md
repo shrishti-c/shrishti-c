@@ -9,7 +9,7 @@
   <img align="left" alt="Shrishti's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishti-c8&label=Profile%20views&color=0e75b6&style=flat" alt="shrishti" /> </p>
 
 <br />
 
